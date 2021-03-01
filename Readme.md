@@ -38,6 +38,10 @@ Let's use the example of an medical services company's website. The objective of
 - As a registered user, I want to schedule an appointment.
 - As a registered user, I want to change password, email address and any other contact information, such as phone number.
 
+### Github link
+
+Link to the Github project for this assignment is found [here](https://github.com/rmulder/pirple-js-homework12).
+
 ### Object Diagram
 
 ![OnlineAppointmentSchedulingObjectDiagram](oop.png)
